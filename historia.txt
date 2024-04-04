@@ -1,3 +1,5 @@
 esta este es un archvo para una clase de Git y Gitlab
 
 esta en la clase 8 de 43, ya casi que si se puede!
+
+toca agregar mas texto que raro no me aparece el archivo
